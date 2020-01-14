@@ -1,0 +1,21 @@
+{
+  "style_screen_title": "US",
+  "navigation_screen_title": "Navigation screen",
+  "undo": "undo",
+  "subHeader":"SubHeader",
+  "body_1": "body 1",
+  "body_2": "body 2",
+  "body_3": "body 3",
+  "body_4": "body 4",
+  "bulk_action_screen_title":"Bulk Action Screen",
+  "selected": "Selected",
+  "dismiss": "Dismiss",
+  "profile": "Profile",
+  "settings": "Settings",
+  "value": "Value",
+  "design_screen_title": "Design screen",
+  "cancel": "Cancel",
+  "ok": "Ok",
+  "caption": "Caption",
+  "title":"Title"
+  }
